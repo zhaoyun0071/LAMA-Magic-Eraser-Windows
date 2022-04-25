@@ -13,8 +13,8 @@ https://pan.baidu.com/s/17meIZ1U95nuHSHQVKY6FMA    提取码：8wkb
 
 来看看我随便找的互联网上的一些图片的测试效果吧，肯定效果有些伪影瑕疵，通过反复微调涂抹效果会更加好，但已经强于很多同类产品了。
  ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/640.gif)
-  ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/640(1).gif)
-   ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/640(2).gif)
+  ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/640%20(1).gif)
+   ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/640%20(2).gif)
 
 
 ## 联系我
