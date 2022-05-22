@@ -20,4 +20,4 @@ V1.1 可以设置画笔大小、颜色，支持批量尺寸统一、水印位置
 
 
 ## 联系我
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/3.jpg)
+ ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/扫码_搜索联合传播样式-白色版.png)
