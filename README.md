@@ -20,4 +20,4 @@ V1.1 可以设置画笔大小、颜色，支持批量尺寸统一、水印位置
 
 
 ## 联系我
- ![image](https://github.com/zhaoyun0071/Disco-Diffusion-Local/blob/main/images/扫码_搜索联合传播样式-白色版.png)
+ ![image](https://github.com/zhaoyun0071/LAMA-Magic-Eraser-Local/blob/main/images/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.png)
